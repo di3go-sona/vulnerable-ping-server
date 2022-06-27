@@ -1,5 +1,6 @@
 # vulnerable-ping-server
-This is a repo contains a very simple vulnerabile ping server that id basically the "Hello World" of cybersec, try to make the content of `secret` appear into the browser !
+This is a repo contains an en example of a simple vulnerabile ping server.Take this repo as the "Hello World" of cybersec world.
+Try to leak the content of the `secret` file by exploiting the web server !
 
 ### Installation
 In order to run the server just run the following lines:
