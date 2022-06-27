@@ -10,6 +10,6 @@ cd vulnerable-ping-server
 pip3 install flask 
 flask run
 ```
-The address to connect will show up in the console
+feel free to read the content of the app.py file if you want
 
 Go to the solution branch to see a sample exploit to get access to the server. ( Don't look it up before you try ;) )
