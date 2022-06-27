@@ -12,3 +12,4 @@ flask run
 ```
 The address to connect will show up in the console
 
+Go to the solution branch to see a sample exploit to get access to the server. ( Don't look it up before you try ;) )
